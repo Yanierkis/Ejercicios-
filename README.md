@@ -1,2 +1,2 @@
-# Ejercicios-
+# Ejercicios- retos
 Distintos ejercicios/ acertijos
