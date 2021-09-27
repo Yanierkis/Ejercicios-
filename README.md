@@ -1,2 +1,2 @@
-# Ejercicios- retos
+# Ejercicios-php
 Distintos ejercicios/ acertijos
