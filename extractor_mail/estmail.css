@@ -1,0 +1,29 @@
+body{
+	
+    margin-top: 200;
+	text-align: center;
+    background-color:#DCDCDC;
+}
+
+h1{
+    color:#8b0000;
+}
+
+h3{
+     color:#8b0000;
+}
+
+input{
+	color:white;
+	background: #8b0000;
+}
+
+div{
+	background: white;
+	position:center;
+	
+	border:0.5px solid black;
+	margin-left: 590;
+	margin-right: 590;
+
+}
