@@ -1,2 +1,2 @@
-# Ejercicios-php
+# EjerciciosPhp
 Distintos ejercicios/ acertijos
